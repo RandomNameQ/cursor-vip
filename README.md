@@ -35,7 +35,7 @@ Method 3: Manually download the binary file
 # MaxOS/Linux (linux binary installation also requires additional execution of the content of i.sh)
 sudo mv cursor-vip_xx_xxx /usr/local/bin/cursor-vip;
 chmod +x /usr/local/bin/cursor-vip;
-cursor-vip githubReadme;
+cursor-vip 24d80144-5382-4c91-af02-8fe338512bc8;
 # Windows 
 # double click cursor-vip_xx_xxx.exe
 ```
